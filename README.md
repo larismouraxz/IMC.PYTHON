@@ -1,8 +1,5 @@
 # IMC.PYTHON
 ## SOBRE
-# IMC.PYTHON
-
-## Sobre o projeto
 
 O projeto **IMC.PYTHON** foi desenvolvido em Python com o objetivo de calcular o Índice de Massa Corporal (IMC) de uma pessoa de forma simples e rápida. O sistema solicita ao usuário informações como peso e altura, realiza automaticamente o cálculo do IMC e informa a classificação correspondente de acordo com a tabela de obesidade.
 
