@@ -1,8 +1,8 @@
 # IMC.PYTHON
 ## SOBRE
 - o projeto traz um código que calcula o
-- IMC das pessoas
+  IMC das pessoas
 
 
 
-- ![imagem](image.png)
+ ![imagem](image.png)
